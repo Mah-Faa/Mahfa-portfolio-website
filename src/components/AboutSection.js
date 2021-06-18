@@ -13,7 +13,7 @@ const AboutSection = () => {
       <Description>
         <motion.div className="title">
           <Hide>
-            <motion.h2>we work to make</motion.h2>
+            <motion.h2>I work to make</motion.h2>
           </Hide>
           <Hide>
             <h2>
@@ -23,8 +23,8 @@ const AboutSection = () => {
           <Hide>
             <h2>true.</h2>
           </Hide>
-          <p>contact us for any photography or videography idea</p>
-          <button> Contact Us</button>
+          <p>Contact me for any writing or coding idea</p>
+          <button> Contact Me</button>
         </motion.div>
       </Description>
       <Image>
